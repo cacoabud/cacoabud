@@ -1,5 +1,3 @@
 ### Hi there 👋
 
-![LinkedIn](https://img.shields.io/badge/https://www.linkedin.com/in/caco-abud-a4a75a235/-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=cacoabud.visitor-badge)
+[![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ludehsar/)](https://www.linkedin.com/in/ludehsar/)
