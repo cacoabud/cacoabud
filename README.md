@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-cacoabud-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caco-abud-a4a75a235/)](https://www.linkedin.com/in/caco-abud-a4a75a235//)
+[![Linkedin Badge](https://img.shields.io/badge/-cacoabudvasconcelos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caco-abud-vasconcelos-a4a75a235/)](https://www.linkedin.com/in/caco-abud-vasconcelos-a4a75a235/)
 [![Gmail Badge](https://img.shields.io/badge/-cacoabud@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cacoabud@gmail.com)](mailto:cacoabud@gmail.com)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
