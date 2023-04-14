@@ -4,6 +4,5 @@
 [![Gmail Badge](https://img.shields.io/badge/-cacoabud@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cacoabud@gmail.com)](mailto:cacoabud@gmail.com)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=cacoabud&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cacoabud&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cacoabud.cacoabud)
