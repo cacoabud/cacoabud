@@ -7,6 +7,6 @@
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=cacoabud&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=cacoabudvasconcelos&count_private=true&show_icons=true&include_all_commits=true)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cacoabud.cacoabud)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cacoabudvasconcelos.cacoabudvasconcelos)
