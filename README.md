@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![WordPress](https://img.shields.io/badge/WordPress-cacoabudvasconcelos.svg?style=for-the-badge&logo=WordPress&logoColor=white&link=https://cacoabudvasconcelos.com.br/)](https://www.cacoabudvasconcelos.com.br/)
 [![Linkedin Badge](https://img.shields.io/badge/-cacoabudvasconcelos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caco-abud-vasconcelos-a4a75a235/)](https://www.linkedin.com/in/caco-abud-vasconcelos-a4a75a235/)
 [![Gmail Badge](https://img.shields.io/badge/-cacoabud@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cacoabud@gmail.com)](mailto:cacoabud@gmail.com)
 
